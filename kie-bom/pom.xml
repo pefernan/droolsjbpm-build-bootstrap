@@ -1869,6 +1869,11 @@
       </dependency>
       <dependency>
         <groupId>org.kie.workbench.forms</groupId>
+        <artifactId>kie-wb-common-forms-cms-persistence-backend</artifactId>
+        <version>${version.org.kie}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.kie.workbench.forms</groupId>
         <artifactId>kie-wb-common-forms-cms-persistence-in-memory</artifactId>
         <version>${version.org.kie}</version>
       </dependency>
