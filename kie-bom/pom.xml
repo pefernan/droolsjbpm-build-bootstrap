@@ -1874,7 +1874,7 @@
       </dependency>
       <dependency>
         <groupId>org.kie.workbench.forms</groupId>
-        <artifactId>kie-wb-common-forms-cms-persistence-in-memory</artifactId>
+        <artifactId>kie-wb-common-forms-cms-persistence-jpa</artifactId>
         <version>${version.org.kie}</version>
       </dependency>
       <dependency>
